@@ -1,1 +1,1 @@
-console.log("hello, javascript");
+import "./js/runner/classesRunner.js";
